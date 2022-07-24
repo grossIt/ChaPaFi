@@ -4,7 +4,7 @@ Automatic identification of parameters for 3-backstresses Chaboche kinematic har
 
 The mathematical procedure is described in the article:
 
-**C. Santus, T. Grossi, M. Benedetti, "Identification of Chaboche kinematic hardening model parameters to simulate stabilized cycles and ratcheting behavior: theoretical advances and an efficient semianalytical procedure", March 2022**
+**C. Santus, T. Grossi, L. Romanelli, M. Benedetti, "Efficient procedure for the identification of the Chaboche isotropic-kinematic hardening model parameters based on strain-controlled cycles and asymptotic ratcheting rates", March 2022**
 
 The article is currently under peer review in an international journal. 
 Files will be available once that the article is published.
