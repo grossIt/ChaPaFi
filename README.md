@@ -1,6 +1,6 @@
 # ChaPaFi v1.0
 
-Automatic identification of parameters for 3-backstresses Chaboche kinematic hardening model, starting from uniaxial strain-controlled experimental tests and an optional ratcheting test.
+Automatic identification of parameters for 3-backstresses Chaboche kinematic hardening model, starting from uniaxial strain-controlled cyclic tests and an optional ratcheting test.
 
 The mathematical procedure is described in the article:
 
